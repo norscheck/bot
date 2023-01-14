@@ -5,16 +5,9 @@
 
   
  # Kurulum & İçerik 
-
-
-- Site dosyalarını kendi sunucunuza ya da htdocs'a yükleyin.
-- Ardından server klasöründeki sql bağlantılarının hepsini yapın.
-- PHPmyadmin üzerinden sql dosyasındaki quarex.sql'yi içeri aktarın.
-- admin/login.php dosyasındaki 10.satırı kendi site adresiniz ile değiştirin.
-- admin/authcontrol.php dosyasındaki 42.satırı kendi site adresiniz ile değiştirin.
-- İlk anahtar: root, admin key: fayuj_adminkey dir.
-- İyi kullanımlar. <3
- # Bazı Görseller  
+#YAKINDA
+ 
+# Bazı Görseller  
 
 #YAKINDA
 
