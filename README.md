@@ -1,6 +1,6 @@
 # discord-sorgu-botu
 Öncelikle herkese selam arkadaşlar mernis sxrgu bot paylaşan yok githubda araştırdığım kadarıyla bende github ailesi sxrgu bot görsün dedim belli 15 star 5 fork da sizlerle
-  not: EĞER SAĞLAM STAR VE FORK GELİRSE DAHA İYİLERİ GELECEKTİR BİLGİNİZE
+#not: EĞER SAĞLAM STAR VE FORK GELİRSE DAHA İYİLERİ GELECEKTİR BİLGİNİZE
 [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideStatus=true)](https://discord.com/users/560917924257464320)
 
   
