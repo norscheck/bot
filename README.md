@@ -9,7 +9,7 @@
  
 # Bazı Görseller  
 
-#YAKINDA
+![image](https://user-images.githubusercontent.com/97955568/212469696-64e57eb9-5982-4f1b-83b2-1b520c57668c.png)
 
 
  # İletişim 
